@@ -1,0 +1,7 @@
+{
+  "/e-learning/courses/details/page": "app/e-learning/courses/details/page.js",
+  "/e-learning/contact/page": "app/e-learning/contact/page.js",
+  "/e-learning/about/page": "app/e-learning/about/page.js",
+  "/e-learning/courses/(list)/page": "app/e-learning/courses/(list)/page.js",
+  "/e-learning/(landing)/page": "app/e-learning/(landing)/page.js"
+}
